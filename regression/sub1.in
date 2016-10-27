@@ -1,0 +1,6 @@
+g1 g2 g3
+testcase1 1 g1 g2
+testcase2 1 g2 g3 g4
+testcase3 1 g2 g1 g3
+testcase4 1 g3 g4
+testcase5 1 g1 g2 g3 g4
